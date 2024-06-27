@@ -1,2 +1,2 @@
-sitename,lat,lon,elev,start_date,end_date,tzoffset
-FR-Hes,48.66666667,7.05,0,2013-01-01,2019-12-31,1
+sitename,lat,lon,elev,start_date,end_date,tzoffset,nimage
+FR-Hes,48.66666667,7.05,0,2013-01-01,2019-12-31,1,9999
